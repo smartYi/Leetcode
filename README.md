@@ -26,5 +26,6 @@ This repository includes all the solutions for the Leetcode algorithm part. For 
 - **Recursion**
 - **Union find**
 - **Design**
+- **Undigraph** [--Click here](https://github.com/smartYi/Leetcode/tree/master/undigraph)
 
 ###Maybe for one problem, you may find it shows in different tags.
