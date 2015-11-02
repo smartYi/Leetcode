@@ -4,6 +4,7 @@ This folder contains six basic application of undigraph. It includes:
 - DFS  
 - BFS
 - Connectivity
+- Symbol Table
 
 |Problem|Solution.java|
 |:-------|:--------:|
@@ -13,3 +14,4 @@ This folder contains six basic application of undigraph. It includes:
 |Connectivity|CC|
 |Cycle Detection|Cycle|
 |Dual-color problem|TwoColor|
+|Symbol Table|SymbolTable|
